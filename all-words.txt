@@ -10,6 +10,39 @@ seven, sieben
 eight, acht
 nine, neun
 ten, zehn
+eleven, elf
+twelve, zwölf
+thirteen, dreizehn
+fourteen, vierzehn
+fifteen, fünfzehn
+sixteen, sechzehn
+seventeen, siebzehn
+eighteen, achtzehn
+nineteen, neunzehn
+twenty, zwanzig
+twenty one, einundzwanzig
+twenty two, zweiundzwanzig
+twenty three, dreiundzwanzig
+twenty four, vierundzwanzig
+twenty five, fünfundzwanzig
+twenty six, sechsundzwanzig
+twenty seven, siebenundzwanzig
+twenty eight, achtundzwanzig
+twenty nine, neunundzwanzig
+thirty, dreißig
+forty, vierzig
+fifty, fünfzig
+sixty, sechzig
+seventy, siebzig
+eighty, achtzig
+ninety, neunzig
+hundred, hundert
+one hundred, einhundert
+thousand, tausend
+1250, eintausendeinhundertfünfzig
+nine hundred thousand, neunhunderttausend
+seven hundred thousand and two, siebenhunderttausendzwei
+million, Million
 
 CALENDERS
 yesterday, gestern
@@ -21,3 +54,51 @@ weekend, das Wochenende
 week, die Woche
 month, der Monat
 year, das Jahr
+
+SEASONS
+January, der Januar
+February, der Februar
+March, der März
+April, der April
+May, der Mai
+June, der Juni
+July, der Juli
+August, der August
+September, der September
+October, der Oktober
+November, der Nobember
+December, der Dezember
+
+DAY OF WEEK
+Monday, der Montag
+Tuesday, der Dienstag
+Wednesday, der Mittwoch
+Thursday, der Donnerstag
+Friday, der Freitag
+Saturday, der Samstag/der Sonnabend
+Sunday, der Sonntag
+
+COMPASS DIRECTION
+north, der Norden
+south, der Süden
+east, der Osten
+west, der Westen
+
+SEASONS
+spring, der Frühling
+summer, der Sommer
+autumn, der Herbst
+winter, der Winter
+
+ITERROGATIVES
+who, wer
+what, was
+where at, wo, Wo bist du?
+where to, wohin, Wohin gehst du?
+where from, woher, Woher kommst du?
+when, wann
+why, warum
+which, welcher
+how, wie
+how much, wie viel
+how many, wie viele
