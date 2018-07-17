@@ -1,10 +1,3 @@
-CALENDERS
-yesterday, gestern
-today, heute
-tomorrow, morgen
-day, das Tag
-date, das Datum
-weekend, das Wochenende
-week, die Woche
-month, der Monat
-year, das Jahr
+ADJECTIVE
+expensive = teuer
+

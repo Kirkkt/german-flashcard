@@ -1,104 +1,168 @@
 NUMBERS
-zero, null
-one, eins
-two, zwei
-three, drei
-four, vier
-five, fünf
-six, sechs
-seven, sieben
-eight, acht
-nine, neun
-ten, zehn
-eleven, elf
-twelve, zwölf
-thirteen, dreizehn
-fourteen, vierzehn
-fifteen, fünfzehn
-sixteen, sechzehn
-seventeen, siebzehn
-eighteen, achtzehn
-nineteen, neunzehn
-twenty, zwanzig
-twenty one, einundzwanzig
-twenty two, zweiundzwanzig
-twenty three, dreiundzwanzig
-twenty four, vierundzwanzig
-twenty five, fünfundzwanzig
-twenty six, sechsundzwanzig
-twenty seven, siebenundzwanzig
-twenty eight, achtundzwanzig
-twenty nine, neunundzwanzig
-thirty, dreißig
-forty, vierzig
-fifty, fünfzig
-sixty, sechzig
-seventy, siebzig
-eighty, achtzig
-ninety, neunzig
-hundred, hundert
-one hundred, einhundert
-thousand, tausend
-1250, eintausendeinhundertfünfzig
-nine hundred thousand, neunhunderttausend
-seven hundred thousand and two, siebenhunderttausendzwei
-million, Million
+zero = null
+one = eins
+two = zwei
+three = drei
+four = vier
+five = fünf
+six = sechs
+seven = sieben
+eight = acht
+nine = neun
+ten = zehn
+eleven = elf
+twelve = zwölf
+thirteen = dreizehn
+fourteen = vierzehn
+fifteen = fünfzehn
+sixteen = sechzehn
+seventeen = siebzehn
+eighteen = achtzehn
+nineteen = neunzehn
+twenty = zwanzig
+twenty one = einundzwanzig
+twenty two = zweiundzwanzig
+twenty three = dreiundzwanzig
+twenty four = vierundzwanzig
+twenty five = fünfundzwanzig
+twenty six = sechsundzwanzig
+twenty seven = siebenundzwanzig
+twenty eight = achtundzwanzig
+twenty nine = neunundzwanzig
+thirty = dreißig
+forty = vierzig
+fifty = fünfzig
+sixty = sechzig
+seventy = siebzig
+eighty = achtzig
+ninety = neunzig
+hundred = hundert
+one hundred = einhundert
+thousand = tausend
+1250 = eintausendeinhundertfünfzig
+nine hundred thousand = neunhunderttausend
+seven hundred thousand and two = siebenhunderttausendzwei
+million = Million
 
 CALENDERS
-yesterday, gestern
-today, heute
-tomorrow, morgen
-day, das Tag
-date, das Datum
-weekend, das Wochenende
-week, die Woche
-month, der Monat
-year, das Jahr
+yesterday = gestern
+today = heute
+tomorrow = morgen
+day = das Tag
+date = das Datum
+weekend = das Wochenende
+week = die Woche
+month = der Monat
+year = das Jahr
 
 SEASONS
-January, der Januar
-February, der Februar
-March, der März
-April, der April
-May, der Mai
-June, der Juni
-July, der Juli
-August, der August
-September, der September
-October, der Oktober
-November, der Nobember
-December, der Dezember
+January = der Januar
+February = der Februar
+March = der März
+April = der April
+May = der Mai
+June = der Juni
+July = der Juli
+August = der August
+September = der September
+October = der Oktober
+November = der Nobember
+December = der Dezember
 
 DAY OF WEEK
-Monday, der Montag
-Tuesday, der Dienstag
-Wednesday, der Mittwoch
-Thursday, der Donnerstag
-Friday, der Freitag
-Saturday, der Samstag/der Sonnabend
-Sunday, der Sonntag
+Monday = der Montag
+Tuesday = der Dienstag
+Wednesday = der Mittwoch
+Thursday = der Donnerstag
+Friday = der Freitag
+Saturday = der Samstag/der Sonnabend
+Sunday = der Sonntag
 
 COMPASS DIRECTION
-north, der Norden
-south, der Süden
-east, der Osten
-west, der Westen
+north = der Norden
+south = der Süden
+east = der Osten
+west = der Westen
 
 SEASONS
-spring, der Frühling
-summer, der Sommer
-autumn, der Herbst
-winter, der Winter
+spring = der Frühling
+summer = der Sommer
+autumn = der Herbst
+winter = der Winter
 
 ITERROGATIVES
-who, wer
-what, was
-where at, wo, Wo bist du?
-where to, wohin, Wohin gehst du?
-where from, woher, Woher kommst du?
-when, wann
-why, warum
-which, welcher
-how, wie
-how much, wie viel
-how many, wie viele
+who = wer
+what = was
+where at = wo = Wo bist du?
+where to = wohin = Wohin gehst du?
+where from = woher = Woher kommst du?
+when = wann
+why = warum
+which = welcher
+how = wie
+how much = wie viel
+how many = wie viele
+
+CONJUNCTIVES
+As soon as she has water she drinks = Sobald sie Wasser hat trinkt sie
+As long as he is playing, he is healthy = Solange er spielt ist er gesund
+I am eating it although I do not like it = Ich esse es, obwohl ich es nicht mag
+I like him since he is paying for the food = Ich mag ihn da er das essen bezahlt
+Because he likes us, we like him = Da er uns mag, mögen wir ihn
+As long as we are fast, we run = Solange wir schnell sind, rennen wir
+He runs as soon as he sees you = Er rennt, sobald er dich sieht
+The cheese is good, although it is old = Der Käse ist gut, obwohl er alt ist
+We are running even though we are tired = Wir laufen, obwohl wir müde sind
+Since I am hungry, I am eating = Da ich Hunger habe, esse ich
+She is not wearing a skirt, but a coat = Sie trägt keinen Rock, sondern einen Mantel
+I am not playing, but reading = Ich spiele nicht, sondern lese
+
+ADJECTIVE
+expensive = teuer
+fast = schnell
+tasty = lecker
+big = groß
+small = klein
+finished = fertig
+funny = lustig
+weak = schwach
+strong = stark
+short = kurz
+long = lang
+loud = laut
+quiet = leise
+spicy = scharf
+great = toll
+good = gut
+sad = traurig
+healthy = gesund
+
+FOOD
+noodles = die Nudeln
+onion = die Zwiebel
+appetizer = die Vorspeise
+menu = die Speisekarte
+garlic = der Knoblauch
+salad = der Salat
+Without mustard, please = Ohne Senf, bitte
+main course = das Hauptgericht
+Garlic tastes great = Knoblauch schmeckt toll
+
+TOURISM
+castle = das Schloss
+
+FAMILY
+mother = die Mutter
+father = der Vater
+daughter = die Tochter
+She has no brother = Sie hat keinen Bruder
+son = der Sohn
+Does he have a son? = Hat er einen Sohn?
+The sisters like my cat = Die Schwestern mögen meine Katze
+sister = die Schwester
+brother = der Bruder
+their daughters = ihre Töchter
+my little brother = mein kleiner Bruder
+my little brothers = meine kleinen Brüder
+my elder brother = mein älterer Bruder
+my elder brothers = meine älteren Brüder

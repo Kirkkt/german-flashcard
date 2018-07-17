@@ -1,10 +1,11 @@
 const fs = require('fs')
+const SPLIT = '='
 
 module.exports = (show, hide) => fs.readFile('words.txt', 'utf-8', (err, file) => {
-  const lines = file.trim().split('\n').filter(line => line.indexOf(',') !== -1)
+  const lines = file.trim().split('\n').filter(line => line.indexOf(SPLIT) !== -1)
   const pairs = lines.map(line => ({
-    en: line.split(',')[0].trim(),
-    de: line.split(',')[1].trim(),
+    en: line.split(SPLIT)[0].trim(),
+    de: line.split(SPLIT)[1].trim(),
   }))
   pairs.sort(() => Math.random() - .5)
   let i = 0
