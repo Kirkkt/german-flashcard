@@ -123,7 +123,7 @@ fast = schnell
 tasty = lecker
 big = groß
 small = klein
-finished = fertig
+finished/ready = fertig
 funny = lustig
 weak = schwach
 strong = stark
@@ -131,22 +131,114 @@ short = kurz
 long = lang
 loud = laut
 quiet = leise
-spicy = scharf
+spicy/sharp(knife) = scharf
 great = toll
 good = gut
+bad = schlecht
 sad = traurig
 healthy = gesund
 
+PREPOSITIONS
+against = gegen = accusative
+without = ohne = accusative
+around = um = accusative
+for = für = accusative
+until = bis = accusative
+through = durch = accusative
+out of = aus = dative
+with = mit = dative
+after = nach = dative
+from = von = dative
+since (time) = seit = dative
+to = zu = dative
+at = an = two-way
+along = entlang = two-way
+on = auf = two-way
+above = über = two-way
+under = unter = two-way
+before = vor = two-way
+zwischen = between = two-way
+wegen = because of = genitive
+
+COMPUTERS
+file = die Datei
+files = die Dateien
+to close = schließen
+to close all = alle schließen
+to close others = andere schließen
+to edit = bearbeiten
+to copy = kopieren
+to paste = einfügen
+to select out = auswählen
+recycle bin/paper basket = der Papierkorb
+setting = die Einstellung
+settings = die Einstellungen
+to search = suchen
+to cancel = abbrechen
+to reload = auffrischen
+computer = der Rechner
+to translate = übersetzen
+image = das Bild
+backward = zurück
+to continue = weiter
+to save (file) = speichern
+to print = drucken
+to press = drücken
+goal = das Ziel
+to inspect = untersuchen
+history = der Verlauf
+bookmark = das Lesezeichen
+to cut out = ausschneiden
+more tools = weitere Tools
+fewer settings = weniger Einstellungen
+to modify = ändern
+page = die Seite
+
 FOOD
+strawberry = die Erdbeere
 noodles = die Nudeln
 onion = die Zwiebel
 appetizer = die Vorspeise
 menu = die Speisekarte
 garlic = der Knoblauch
 salad = der Salat
+sugar = der Zucker
+salt = das Salz
+salty = salzig
+sour = sauer
+vinegar = der Essig
+chocolate = die Schokolade
 Without mustard, please = Ohne Senf, bitte
+fresh = frisch
 main course = das Hauptgericht
 Garlic tastes great = Knoblauch schmeckt toll
+knife = das Messer
+knives = die Messer
+fork = die Gabel
+forks = die Gabeln
+cake = der Kuchen
+cakes = die Kuchen
+spoon = der Löffel
+spoon = die Löffel
+dessert = der Nachtisch
+He is paying for our dinner = Er bezahlt unser Abendessen
+coffee = der Kaffee
+tea = der Tee
+beer = das Bier
+wine = der Wein
+to taste = schmecken
+bread = das Brot
+fruit = das Obst
+juice = der Saft
+orange(fruit) = die Orange
+orange juice = der Orangensaft
+banana = die Banane
+potato = eine Kartoffel
+meat = das Fleisch
+egg = das Ei
+vegetable = das Gemüse
+cheese = der Käse
+sweet = süß
 
 TOURISM
 castle = das Schloss

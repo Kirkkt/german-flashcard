@@ -1,3 +1,27 @@
-ADJECTIVE
-expensive = teuer
-
+FOOD
+noodles = die Nudeln
+onion = die Zwiebel
+appetizer = die Vorspeise
+menu = die Speisekarte
+garlic = der Knoblauch
+salad = der Salat
+Without mustard, please = Ohne Senf, bitte
+main course = das Hauptgericht
+Garlic tastes great = Knoblauch schmeckt toll
+coffee = der Kaffee
+tea = der Tee
+beer = das Bier
+wine = der Wein
+to taste = schmecken
+bread = das Brot
+fruit = das Obst
+juice = der Saft
+orange(fruit) = die Orange
+orange juice = der Orangensaft
+banana = die Banane
+potato = eine Kartoffel
+meat = das Fleisch
+egg = das Ei
+vegetable = das Gemüse
+cheese = der Käse
+sweet = süß
