@@ -117,6 +117,18 @@ Since I am hungry, I am eating = Da ich Hunger habe, esse ich
 She is not wearing a skirt, but a coat = Sie trägt keinen Rock, sondern einen Mantel
 I am not playing, but reading = Ich spiele nicht, sondern lese
 
+HOUSING
+roof = das Dach
+roofs = die Dächer
+basement = der Keller
+basements = die Keller
+kitchen = die Küche
+apartment = die Wohnung
+key = der Schlüssel
+keys = die Schlüssel
+balcony = der Balkon
+house = das Haus
+
 ADJECTIVE
 expensive = teuer
 fast = schnell
@@ -131,10 +143,19 @@ short = kurz
 long = lang
 loud = laut
 quiet = leise
+calm = ruhig
+free = frie
 spicy/sharp(knife) = scharf
 great = toll
 good = gut
 bad = schlecht
+high = hoch
+slow = langsam
+perfect = perfekt
+enough = genug
+young = jung
+simple = einfach
+difficult = schwer
 sad = traurig
 healthy = gesund
 
@@ -242,6 +263,8 @@ sweet = süß
 
 TOURISM
 castle = das Schloss
+train station = der Bahnhof
+Every cent matters = Jeder Cent zählt
 
 FAMILY
 mother = die Mutter
