@@ -120,16 +120,33 @@ She is not wearing a skirt, but a coat = Sie trägt keinen Rock, sondern einen M
 I am not playing, but reading = Ich spiele nicht, sondern lese
 
 HOUSING {{{1
-roof = das Dach
-roofs = die Dächer
+apartment = die Wohnung
+balcony = der Balkon
 basement = der Keller
 basements = die Keller
-kitchen = die Küche
-apartment = die Wohnung
+door = die Tür
+house = das Haus
 key = der Schlüssel
 keys = die Schlüssel
-balcony = der Balkon
-house = das Haus
+kitchen = die Küche
+roof = das Dach
+roofs = die Dächer
+room = das Zimmer
+rooms = die Zimmer
+courtyard = der Hof
+wall (part of a structure) = die Wand
+walls (part of a structure) = die Wände
+wall (can be standalone) = die Mauer
+window = das Fenster
+windows = die Fenster
+
+APPLIANCE {{{1
+refrigerator = der Kühlschrank
+toaster = der Toaster
+oven = der Backofen
+
+SCHOOLING {{{1
+school = die Schule
 
 ADJECTIVE {{{1
 clean = sauber
@@ -258,10 +275,6 @@ flower = die Blume
 
 CLOTHES {{{1
 shirts = die Hemden
-
-HOUSING {{{1
-door = die Tür
-rooms = die Zimmer
 
 FOOD {{{1
 bread = das Brot
