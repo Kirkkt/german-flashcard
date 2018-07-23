@@ -1,4 +1,6 @@
-NUMBERS
+NUMBERS {{{1
+number = die Nummer
+numbers = die Nummern
 zero = null
 one = eins
 two = zwei
@@ -44,18 +46,18 @@ nine hundred thousand = neunhunderttausend
 seven hundred thousand and two = siebenhunderttausendzwei
 million = Million
 
-CALENDERS
+CALENDERS {{{1
 yesterday = gestern
 today = heute
 tomorrow = morgen
-day = das Tag
+day = der Tag
 date = das Datum
 weekend = das Wochenende
 week = die Woche
 month = der Monat
 year = das Jahr
 
-SEASONS
+SEASONS {{{1
 January = der Januar
 February = der Februar
 March = der März
@@ -66,10 +68,10 @@ July = der Juli
 August = der August
 September = der September
 October = der Oktober
-November = der Nobember
+November = der November
 December = der Dezember
 
-DAY OF WEEK
+DAY OF WEEK {{{1
 Monday = der Montag
 Tuesday = der Dienstag
 Wednesday = der Mittwoch
@@ -78,19 +80,19 @@ Friday = der Freitag
 Saturday = der Samstag/der Sonnabend
 Sunday = der Sonntag
 
-COMPASS DIRECTION
+COMPASS DIRECTION {{{1
 north = der Norden
 south = der Süden
 east = der Osten
 west = der Westen
 
-SEASONS
+SEASONS {{{1
 spring = der Frühling
 summer = der Sommer
 autumn = der Herbst
 winter = der Winter
 
-ITERROGATIVES
+ITERROGATIVES {{{1
 who = wer
 what = was
 where at = wo = Wo bist du?
@@ -103,7 +105,7 @@ how = wie
 how much = wie viel
 how many = wie viele
 
-CONJUNCTIVES
+CONJUNCTIVES {{{1
 As soon as she has water she drinks = Sobald sie Wasser hat trinkt sie
 As long as he is playing, he is healthy = Solange er spielt ist er gesund
 I am eating it although I do not like it = Ich esse es, obwohl ich es nicht mag
@@ -117,7 +119,7 @@ Since I am hungry, I am eating = Da ich Hunger habe, esse ich
 She is not wearing a skirt, but a coat = Sie trägt keinen Rock, sondern einen Mantel
 I am not playing, but reading = Ich spiele nicht, sondern lese
 
-HOUSING
+HOUSING {{{1
 roof = das Dach
 roofs = die Dächer
 basement = der Keller
@@ -129,7 +131,15 @@ keys = die Schlüssel
 balcony = der Balkon
 house = das Haus
 
-ADJECTIVE
+ADJECTIVE {{{1
+clean = sauber
+tired = müde
+fresh = frisch
+deep = tief
+rich = reich
+dirty = schmutzig
+round = rund
+pregnant = schwanger
 expensive = teuer
 fast = schnell
 tasty = lecker
@@ -144,7 +154,7 @@ long = lang
 loud = laut
 quiet = leise
 calm = ruhig
-free = frie
+free = frei
 spicy/sharp(knife) = scharf
 great = toll
 good = gut
@@ -159,7 +169,7 @@ difficult = schwer
 sad = traurig
 healthy = gesund
 
-PREPOSITIONS
+PREPOSITIONS {{{1
 against = gegen = accusative
 without = ohne = accusative
 around = um = accusative
@@ -178,10 +188,10 @@ on = auf = two-way
 above = über = two-way
 under = unter = two-way
 before = vor = two-way
-zwischen = between = two-way
-wegen = because of = genitive
+between = zwischen = two-way
+because of = wegen = genitive
 
-COMPUTERS
+COMPUTERS {{{1
 file = die Datei
 files = die Dateien
 to close = schließen
@@ -215,8 +225,53 @@ fewer settings = weniger Einstellungen
 to modify = ändern
 page = die Seite
 
-FOOD
+ANIMALS {{{1
+duck = die Ente
+beetle = der Käfer
+fly (animal) = die Fliege
+bee = die Biene
+spider = die Spinne
+bird = der Vogel
+insect = das Insekt
+bear = der Bär
+bears = die Bären
+ducks = die Enten
+pigs = die Schweine
+horse = das Pferd
+horses = die Pferde
+mouse = die Maus
+
+BODY {{{1
+eye = das Auge
+ear = das Ohr
+nose = die Nase
+
+NATURE {{{1
+sea = das Meer
+air = die Luft
+earth = die Erde
+moon = der Mond
+fire = das Feuer
+
+PLANTS {{{1
+flower = die Blume
+
+CLOTHES {{{1
+shirts = die Hemden
+
+HOUSING {{{1
+door = die Tür
+rooms = die Zimmer
+
+FOOD {{{1
+bread = das Brot
+water = das Wasser
+eggs = die Eier
+apples = die Äpfel
+potatos = die Kartoffeln
 strawberry = die Erdbeere
+mushroom = der Pilz
+restaurant = das Restaurant
 noodles = die Nudeln
 onion = die Zwiebel
 appetizer = die Vorspeise
@@ -226,6 +281,8 @@ salad = der Salat
 sugar = der Zucker
 salt = das Salz
 salty = salzig
+soup = die Suppe
+recipe = das Rezept
 sour = sauer
 vinegar = der Essig
 chocolate = die Schokolade
@@ -261,12 +318,12 @@ vegetable = das Gemüse
 cheese = der Käse
 sweet = süß
 
-TOURISM
+TOURISM {{{1
 castle = das Schloss
 train station = der Bahnhof
 Every cent matters = Jeder Cent zählt
 
-FAMILY
+FAMILY {{{1
 mother = die Mutter
 father = der Vater
 daughter = die Tochter
@@ -281,3 +338,67 @@ my little brother = mein kleiner Bruder
 my little brothers = meine kleinen Brüder
 my elder brother = mein älterer Bruder
 my elder brothers = meine älteren Brüder
+
+POSSESSIONS {{{1
+books = die Bücher
+
+ADVERBS {{{1
+very = sehr
+again = wieder
+unfortunately = leider
+always = immer
+
+CONTRACTIONS {{{1
+an das = ans
+an dem = am
+auf das = aufs
+bei dem = beim
+durch das = durchs
+für das = fürs
+hinter dem = hinterm
+in das = ins
+in dem = im
+um das = ums
+unter das = unters
+unter dem = unterm
+von dem = vom
+vor das = vors
+vor dem = vorm
+zu dem = zum
+zu der = zur
+über das = übers
+
+ARTICLE_CASES {{{1
+the (masculine nominative) = der
+the (feminine nominative) = die
+the (neuter nominative) = das
+the (plural nominative) = die
+the (masculine accusative) = den
+the (feminine accusative) = die
+the (neuter accusative) = das
+the (plural accusative) = die
+the (masculine dative) = dem
+the (feminine dative) = der
+the (neuter dative) = dem
+the (plural dative) = den
+the (masculine genitive) = des
+the (feminine genitive) = der
+the (neuter genitive) = des
+the (plural genitive) = der
+a (masculine nominative) = ein
+a (feminine nominative) = eine
+a (neuter nominative) = ein
+a (masculine accusative) = einen
+a (feminine accusative) = eine
+a (neuter accusative) = ein
+a (masculine dative) = einem
+a (feminine dative) = einer
+a (neuter dative) = einem
+a (masculine genitive) = eines
+a (feminine genitive) = einer
+a (neuter genitive) = eines
+
+GRAMMAR_CAVEATS {{{1
+We feel warm = Uns ist warm
+Because it is hungry, the horse eats seventeen apples. = Weil es Hunger hat, frisst das Pferd siebzehn Äpfel.
+The horse eats seventeen apples, because it is hungry. = Das Pferd frisst siebzehn Äpfel, weil es Hunger hat.
