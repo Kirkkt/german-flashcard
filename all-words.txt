@@ -416,6 +416,11 @@ a (masculine genitive) = eines
 a (feminine genitive) = einer
 a (neuter genitive) = eines
 
+CHEMISTRY {{{1
+hydrogen = der Wasserstoff
+oxygen = der Sauerstoff
+nitrogen = der Stickstoff
+
 GRAMMAR_CAVEATS {{{1
 We feel warm = Uns ist warm
 Because it is hungry, the horse eats seventeen apples. = Weil es Hunger hat, frisst das Pferd siebzehn Äpfel.
