@@ -243,20 +243,23 @@ to modify = ändern
 page = die Seite
 
 ANIMALS {{{1
-duck = die Ente
-beetle = der Käfer
-fly (animal) = die Fliege
-bee = die Biene
-spider = die Spinne
-bird = der Vogel
-insect = das Insekt
+ape = der Affe
 bear = der Bär
 bears = die Bären
+bee = die Biene
+beetle = der Käfer
+bird = der Vogel
+duck = die Ente
 ducks = die Enten
-pigs = die Schweine
+fly (animal) = die Fliege
+fish = der Fisch
+lion = der Löwe
 horse = das Pferd
 horses = die Pferde
+insect = das Insekt
 mouse = die Maus
+pigs = die Schweine
+spider = die Spinne
 
 BODY {{{1
 eye = das Auge
@@ -272,6 +275,7 @@ fire = das Feuer
 
 PLANTS {{{1
 flower = die Blume
+tree = der Baum
 
 CLOTHES {{{1
 shirts = die Hemden
@@ -292,6 +296,7 @@ menu = die Speisekarte
 garlic = der Knoblauch
 salad = der Salat
 sugar = der Zucker
+oil = das Öl
 salt = das Salz
 salty = salzig
 soup = die Suppe
@@ -415,3 +420,32 @@ GRAMMAR_CAVEATS {{{1
 We feel warm = Uns ist warm
 Because it is hungry, the horse eats seventeen apples. = Weil es Hunger hat, frisst das Pferd siebzehn Äpfel.
 The horse eats seventeen apples, because it is hungry. = Das Pferd frisst siebzehn Äpfel, weil es Hunger hat.
+
+CALL_OF_DUTY_GAMEPLAY {{{1
+Game saved. = Spiel gespeichert.
+Even more enemies! = Noch mehr Feinde!
+Direct ahead! = Direkt voraus!
+Everything secured. = Alles gesichert.
+The stairs, left side. = Die Treppe, linke Seite.
+Every man stand still. = Alle Mann stillhalten.
+This is already better. = Das ist schon besser!
+We are now approaching the target. = Nähern uns jetzt dem ziel.
+What is your status? = Wie ist ihr Status?
+Keep searching for the president. = Suchen Sie weiter nach dem Präsidenten.
+She wants to say something. = Sie will etwas sagen.
+She says, her father was brought deeper in the mine. = Sie sagt, ihr Vater wurde tiefer in die Mine gebracht. 
+Then we go there. = Dann gehen wir da hin.
+Then we are not too late. Keep moving forward! = Dann sind wir nicht zu spät. Weiter vorrücken!
+Do not waste time. = Keine Zeit verschwenden.
+Follow me. = Mir nach.
+Understood. = Verstanden.
+Arriving in about thirty seconds. Get ready. = Ankunft in etwa dreißig Sekunden. Bereitmachen.
+Come back here. = Komm hierher zurück.
+Hold position. Evacuating in thirty seconds. = Position halten. Evakuierung in dreißig Sekunden.
+There are even more of them. = Da kommen noch mehr von denen.
+Looks like our taxi is here. = Sieht aus, als ob unser Taxi da ist.
+What are you doing? = Was tust du da?
+We have the president on board. We must get out of here! = Wir haben den Präsidenten an Bord, wir müssen weg hier!
+The president is safe. = Der Präsident ist sicher.
+Hang in there. I'm helping you. = Halt durch. Ich helf dir.
+You must go. Get the president out of here. = Du musst los. Schaff den Präsidenten raus.

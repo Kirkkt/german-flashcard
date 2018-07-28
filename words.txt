@@ -27,4 +27,3 @@ simple = einfach
 difficult = schwer
 sad = traurig
 healthy = gesund
-
